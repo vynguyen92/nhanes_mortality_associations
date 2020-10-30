@@ -1,0 +1,30 @@
+,continuous_variable,counts,min,perc_01,perc_05,perc_10,median,mean,perc_90,perc_95,perc_99,max,names,pi_names,body_system_categories
+1,PERMTH_INT,45032,1,12,19,27,92,97.30,177,189,199,201,Person Months of Follow-up from Interview Date, , 
+2,RIDAGEYR,45032,18,18,19,21,46,47.09,75,80,85,85,Age at Screening Adjudicated - Recode, , 
+3,BMXBMI,44047,12.04,17.72,19.81,21.2,27.43,28.52,37.1,40.937,49.92,130.21,Body Mass Index (kg/m**2),Body Mass Index (kg/m**2),Body Composition
+4,BMXHT,44288,123.3,145.7,151.3,154.3,166.9,167.32,180.8,184.4,190.3,204.5,Standing Height (cm),Standing Height (cm),Body Composition
+5,BMXSUB,26374,2.4,6.5,8.4,9.9,19.4,20.08,31.3,34.5,38.5,44,Subscapular Skinfold (mm),Subscapular Skinfold (mm),Body Composition
+6,BMXTRI,29824,2.4,4.9,7,8.5,17.8,18.92,31.2,34.2,38.4,45,Triceps Skinfold (mm),Triceps Skinfold (mm),Body Composition
+7,BMXWAIST,42558,55.5,67.5,73.4,77.4,96.2,97.34,118.2,126,142.2,179,Waist Circumference (cm),Waist Circumference (cm),Body Composition
+8,BMXWT,44233,25.6,45.1,52.2,56.7,77.1,80.04,106.8,118,145.4,371,Weight (kg),Weight (kg),Body Composition
+9,VNRFPI,42425,2.82,15.26,20.17,23.49,34.40,34.91,46.63,48.67,51.89,58.41,Relative Fat Mass Index (-),Relative Fat Mass Index (-),Body Composition
+10,BPXPLS,43147,32,48,54,58,72,72.84,90,96,106,224,60 sec. pulse (30 sec. pulse * 2),60 sec. pulse (30 sec. pulse * 2),Cardiovascular System
+11,LBDHDD,42145,7,26,32,35,50,52.77,74,82,101,188,Direct HDL-Cholesterol (mg/dL),Direct HDL-Cholesterol (mg/dL),Cardiovascular System
+12,LBDLDL,19696,9,45,62,72,112,114.81,161,177,213,629,LDL-cholesterol (mg/dL),LDL-cholesterol (mg/dL),Cardiovascular System
+13,LBXSTR,42018,9,34,46,56,116,148.28,269,347,589,6057,Triglycerides (mg/dL),Triglycerides (mg/dL),Cardiovascular System
+14,LBXTC,42147,59,112,133,144,192,195.39,250,270,313,813,Total cholesterol (mg/dL),Total cholesterol (mg/dL),Cardiovascular System
+15,VNAVEBPXDI,42647,3.33,39.33,50,54.67,70,69.88,84.67,89.33,100,132,Diastolic: Average blood pressure (mm Hg),Diastolic: Average blood pressure (mm Hg),Cardiovascular System
+16,VNAVEBPXSY,42881,64.67,91.33,98.67,102.67,120,123.74,149.33,161.33,186,270,Systolic: Average blood pressure (mm Hg),Systolic: Average blood pressure (mm Hg),Cardiovascular System
+17,VNLDHDLRATIO,19696,0.15,0.70,1.01,1.21,2.15,2.31,3.6,4.08,5.15,33.11,Ratio of LDL to HDL Cholesterol (-),Ratio of LDL to HDL Cholesterol (-),Cardiovascular System
+18,VNTOTHDRATIO,42144,1.31,1.89,2.26,2.49,3.72,3.99,5.82,6.60,8.40,37.05,Ratio of Total to HDL Cholesterol (-),Ratio of Total to HDL Cholesterol (-),Cardiovascular System
+19,LBXCRP,31478,0.01,0.01,0.02,0.04,0.21,0.45,1.06,1.63,3.77,29.6,C-reactive protein (mg/dL),C-reactive protein (mg/dL),Immune System
+20,LBXWBCSI,42703,1.5,3.5,4.31,4.8,6.9,7.27,10,11.2,13.798,99.99,White blood cell count (SI),White blood cell count (SI),Immune System
+21,LBXGH,42657,2,4.5,4.8,4.9,5.4,5.64,6.4,7.4,10.7,18.8,Glycohemoglobin (%),Glycohemoglobin (%),Metabolic System
+22,LBXGLU,20757,36,72.556,81,84.7,98,105.92,128,159,281,686.2,"Glucose, plasma (mg/dL)","Glucose, plasma (mg/dL)",Metabolic System
+23,LBXSAPSI,36827,7,32,41,46,68,71.86,101,115,153,1378,Alkaline phosphatase (U/L),Alkaline phosphatase (U/L),Metabolic System
+24,VNHOMAIR,17659,0.05,0.40,0.74,0.98,2.43,3.81,7.24,10.31,24.72,204.47,Homeostatic Model Assessment of Insulin Resistance (-),Homeostatic Model Assessment of Insulin Resistance (-),Metabolic System
+25,VNINGLURATIO,17659,0.00,0.02,0.03,0.04,0.10,0.13,0.24,0.31,0.56,5.06,Ratio of Insulin to Glucose (uU*dL)/(mg*mL),Ratio of Insulin to Glucose (uU*dL)/(mg*mL),Metabolic System
+26,LBXSAL,42041,1.2,3.1,3.6,3.8,4.3,4.25,4.7,4.8,5,5.7,Albumin (g/dL),Albumin (g/dL),Nephrology
+27,LBXSBU,42038,1,4,6,7,12,13.19,20,23,35,122,Blood urea nitrogen (mg/dL),Blood urea nitrogen (mg/dL),Nephrology
+28,LBXSCR,36831,0.16,0.4,0.5,0.6,0.82,0.89,1.17,1.3,1.957,17.8,Creatinine (mg/dL),Creatinine (mg/dL),Nephrology
+29,VNEGFR,36831,1.85,30.46,51.91,62.70,98.55,97.17,128.48,136.81,151.50,207.58,Estimated Glomerular Filtration Rate (mL/min/1.73 m2),Estimated Glomerular Filtration Rate (mL/min/1.73 m2),Nephrology
