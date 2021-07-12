@@ -7,7 +7,7 @@
 #          the weights variables pertaining to the Interview and MEC examination to merge with the weights   
 #          dataset. And finally, form the merged chemical and demographics dataset. 
 #
-# Inputs: demographics_unclean_dataset - merged demograhpics dataset
+# Inputs: demographics_unclean_dataset - merged demographics dataset
 #         chemicals_clean_dataset - clean chemical dataset
 #         weights_unfinished_dataset - unfinished weights dataset that requires the weights from the Interview 
 #                                      and MEC examination. 
