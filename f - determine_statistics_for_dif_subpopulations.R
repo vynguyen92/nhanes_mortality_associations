@@ -129,7 +129,9 @@ determine_statistics_for_dif_subpopulations <- function(dataset_merged
               , perc_05 = quantile(age, probs = 0.05)
               , perc_10 = quantile(age, probs = 0.10)
               , median = quantile(age, probs = 0.5)
+              , interquartile_range = quantile(age, probs = 0.75) - quantile(age, probs = 0.25)
               , mean = mean(age)
+              , sd = sd(age)
               , perc_90 = quantile(age, probs = 0.90)
               , perc_95 = quantile(age, probs = 0.95)
               , perc_99 = quantile(age, probs = 0.99)
@@ -149,7 +151,9 @@ determine_statistics_for_dif_subpopulations <- function(dataset_merged
               , perc_05 = quantile(RIDAGEYR, probs = 0.05)
               , perc_10 = quantile(RIDAGEYR, probs = 0.10)
               , median = quantile(RIDAGEYR, probs = 0.5)
+              , interquartile_range = quantile(RIDAGEYR, probs = 0.75) - quantile(RIDAGEYR, probs = 0.25)
               , mean = mean(RIDAGEYR)
+              , sd = sd(RIDAGEYR)
               , perc_90 = quantile(RIDAGEYR, probs = 0.90)
               , perc_95 = quantile(RIDAGEYR, probs = 0.95)
               , perc_99 = quantile(RIDAGEYR, probs = 0.99)
@@ -163,7 +167,9 @@ determine_statistics_for_dif_subpopulations <- function(dataset_merged
               , perc_05 = quantile(time_to_death, probs = 0.05)
               , perc_10 = quantile(time_to_death, probs = 0.10)
               , median = quantile(time_to_death, probs = 0.5)
+              , interquartile_range = quantile(time_to_death, probs = 0.75) - quantile(time_to_death, probs = 0.25)
               , mean = mean(time_to_death)
+              , sd = sd(time_to_death)
               , perc_90 = quantile(time_to_death, probs = 0.90)
               , perc_95 = quantile(time_to_death, probs = 0.95)
               , perc_99 = quantile(time_to_death, probs = 0.99)
@@ -176,5 +182,5 @@ determine_statistics_for_dif_subpopulations <- function(dataset_merged
   write.csv(x = dataset_sub_time_to_death
             , file = "NHANES - Percentiles of Time to Death for Subpopulations.csv")
 
-  View(dataset_nhanes_age)
+  # View(dataset_nhanes_age)
 }
