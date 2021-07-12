@@ -4,8 +4,7 @@
 
 # Purpose: This function cleans the mortality dataset to have non-NA columns
 #
-# Inputs: dataset_unclean - the working directory of the folder that contains the folders for each cycle. Each 
-#                           cycle-specific folder contains the file names for each the chemical dataset
+# Inputs: dataset_unclean - dataframe of unclean mortality data 
 #
 # Outputs: dataset_unclean_updated - dataframe of the cleaned mortality dataset
 
