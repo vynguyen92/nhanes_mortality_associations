@@ -53,6 +53,10 @@ install_packages_upload_libraries <- function()
   
   # library("MASS")
   
+  # Install and upload usefun to use outersect()
+  install.packages("usefun")
+  library("usefun")
+  
   # Upload ggrepel package to help with scales of axes in plots
   library("scales")
   
