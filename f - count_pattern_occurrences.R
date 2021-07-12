@@ -2,12 +2,12 @@
 #####################################  FUNCTION TO DETERMINE PATTERN OCCURENCE  ############################### 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-# Purpose: This functions determine the number of times a pattern has occured in a string 
+# Purpose: This functions determine the number of times a pattern has occurred in a string 
 #
 # Inputs: pattern - string of the pattern
 #         original_string_text - string of the original text
 #
-# Outputs: num_of_occurences - the number of times that the pattern occured
+# Outputs: num_of_occurences - the number of times that the pattern occurred
 
 count_pattern_occurrences <- function(pattern
                                       , original_string_text) 
