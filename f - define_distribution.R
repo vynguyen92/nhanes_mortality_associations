@@ -7,7 +7,7 @@
 #          
 # Inputs: x - dataframe of the predicted risks of the measurements of a physiological indicator and a 
 #             sensitivity analysis
-#         long_dataset - long-formatted dataframe based on the physiological indictors
+#         long_dataset - long-formatted dataframe based on the physiological indicators
 #         motif_demo - string indicating whether the analysis was run on the NHANES population ("all") or 
 #                      performed on sex ("gender")
 #
