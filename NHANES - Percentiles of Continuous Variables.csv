@@ -1,30 +1,30 @@
-,continuous_variable,counts,min,perc_01,perc_05,perc_10,median,mean,perc_90,perc_95,perc_99,max,names,pi_names,body_system_categories
-1,PERMTH_INT,45032,1,12,19,27,92,97.30,177,189,199,201,Person Months of Follow-up from Interview Date, , 
-2,RIDAGEYR,45032,18,18,19,21,46,47.09,75,80,85,85,Age at Screening Adjudicated - Recode, , 
-3,BMXBMI,44047,12.04,17.72,19.81,21.2,27.43,28.52,37.1,40.937,49.92,130.21,Body Mass Index (kg/m**2),Body Mass Index (kg/m**2),Body Composition
-4,BMXHT,44288,123.3,145.7,151.3,154.3,166.9,167.32,180.8,184.4,190.3,204.5,Standing Height (cm),Standing Height (cm),Body Composition
-5,BMXSUB,26374,2.4,6.5,8.4,9.9,19.4,20.08,31.3,34.5,38.5,44,Subscapular Skinfold (mm),Subscapular Skinfold (mm),Body Composition
-6,BMXTRI,29824,2.4,4.9,7,8.5,17.8,18.92,31.2,34.2,38.4,45,Triceps Skinfold (mm),Triceps Skinfold (mm),Body Composition
-7,BMXWAIST,42558,55.5,67.5,73.4,77.4,96.2,97.34,118.2,126,142.2,179,Waist Circumference (cm),Waist Circumference (cm),Body Composition
-8,BMXWT,44233,25.6,45.1,52.2,56.7,77.1,80.04,106.8,118,145.4,371,Weight (kg),Weight (kg),Body Composition
-9,VNRFPI,42425,2.82,15.26,20.17,23.49,34.40,34.91,46.63,48.67,51.89,58.41,Relative Fat Mass Index (-),Relative Fat Mass Index (-),Body Composition
-10,BPXPLS,43147,32,48,54,58,72,72.84,90,96,106,224,60 sec. pulse (30 sec. pulse * 2),60 sec. pulse (30 sec. pulse * 2),Cardiovascular System
-11,LBDHDD,42145,7,26,32,35,50,52.77,74,82,101,188,Direct HDL-Cholesterol (mg/dL),Direct HDL-Cholesterol (mg/dL),Cardiovascular System
-12,LBDLDL,19696,9,45,62,72,112,114.81,161,177,213,629,LDL-cholesterol (mg/dL),LDL-cholesterol (mg/dL),Cardiovascular System
-13,LBXSTR,42018,9,34,46,56,116,148.28,269,347,589,6057,Triglycerides (mg/dL),Triglycerides (mg/dL),Cardiovascular System
-14,LBXTC,42147,59,112,133,144,192,195.39,250,270,313,813,Total cholesterol (mg/dL),Total cholesterol (mg/dL),Cardiovascular System
-15,VNAVEBPXDI,42647,3.33,39.33,50,54.67,70,69.88,84.67,89.33,100,132,Diastolic: Average blood pressure (mm Hg),Diastolic: Average blood pressure (mm Hg),Cardiovascular System
-16,VNAVEBPXSY,42881,64.67,91.33,98.67,102.67,120,123.74,149.33,161.33,186,270,Systolic: Average blood pressure (mm Hg),Systolic: Average blood pressure (mm Hg),Cardiovascular System
-17,VNLDHDLRATIO,19696,0.15,0.70,1.01,1.21,2.15,2.31,3.6,4.08,5.15,33.11,Ratio of LDL to HDL Cholesterol (-),Ratio of LDL to HDL Cholesterol (-),Cardiovascular System
-18,VNTOTHDRATIO,42144,1.31,1.89,2.26,2.49,3.72,3.99,5.82,6.60,8.40,37.05,Ratio of Total to HDL Cholesterol (-),Ratio of Total to HDL Cholesterol (-),Cardiovascular System
-19,LBXCRP,31478,0.01,0.01,0.02,0.04,0.21,0.45,1.06,1.63,3.77,29.6,C-reactive protein (mg/dL),C-reactive protein (mg/dL),Immune System
-20,LBXWBCSI,42703,1.5,3.5,4.31,4.8,6.9,7.27,10,11.2,13.798,99.99,White blood cell count (SI),White blood cell count (SI),Immune System
-21,LBXGH,42657,2,4.5,4.8,4.9,5.4,5.64,6.4,7.4,10.7,18.8,Glycohemoglobin (%),Glycohemoglobin (%),Metabolic System
-22,LBXGLU,20757,36,72.556,81,84.7,98,105.92,128,159,281,686.2,"Glucose, plasma (mg/dL)","Glucose, plasma (mg/dL)",Metabolic System
-23,LBXSAPSI,36827,7,32,41,46,68,71.86,101,115,153,1378,Alkaline phosphatase (U/L),Alkaline phosphatase (U/L),Metabolic System
-24,VNHOMAIR,17659,0.05,0.40,0.74,0.98,2.43,3.81,7.24,10.31,24.72,204.47,Homeostatic Model Assessment of Insulin Resistance (-),Homeostatic Model Assessment of Insulin Resistance (-),Metabolic System
-25,VNINGLURATIO,17659,0.00,0.02,0.03,0.04,0.10,0.13,0.24,0.31,0.56,5.06,Ratio of Insulin to Glucose (uU*dL)/(mg*mL),Ratio of Insulin to Glucose (uU*dL)/(mg*mL),Metabolic System
-26,LBXSAL,42041,1.2,3.1,3.6,3.8,4.3,4.25,4.7,4.8,5,5.7,Albumin (g/dL),Albumin (g/dL),Nephrology
-27,LBXSBU,42038,1,4,6,7,12,13.19,20,23,35,122,Blood urea nitrogen (mg/dL),Blood urea nitrogen (mg/dL),Nephrology
-28,LBXSCR,36831,0.16,0.4,0.5,0.6,0.82,0.89,1.17,1.3,1.957,17.8,Creatinine (mg/dL),Creatinine (mg/dL),Nephrology
-29,VNEGFR,36831,1.85,30.46,51.91,62.70,98.55,97.17,128.48,136.81,151.50,207.58,Estimated Glomerular Filtration Rate (mL/min/1.73 m2),Estimated Glomerular Filtration Rate (mL/min/1.73 m2),Nephrology
+"","continuous_variable","counts","min","perc_01","perc_05","perc_10","median","interquartile_range","mean","sd","perc_90","perc_95","perc_99","max","names","pi_names","body_system_categories"
+"1","BMXBMI",44047,12.04,17.72,19.81,21.2,27.43,8,28.5167530138261,6.70574811086562,37.1,40.937,49.92,130.21,"Body Mass Index (kg/m**2)","Body Mass Index (kg/m**2)","Body Composition"
+"2","BMXHT",44288,123.3,145.7,151.3,154.3,166.9,14.7,167.319801300578,10.1540035412812,180.8,184.4,190.3,204.5,"Standing Height (cm)","Standing Height (cm)","Body Composition"
+"3","BMXSUB",26374,2.4,6.5,8.4,9.9,19.4,12,20.0793508758626,7.98301066015852,31.3,34.5,38.5,44,"Subscapular Skinfold (mm)","Subscapular Skinfold (mm)","Body Composition"
+"4","BMXTRI",29824,2.4,4.9,7,8.5,17.8,13,18.9220225321888,8.47793077250836,31.2,34.2,38.4,45,"Triceps Skinfold (mm)","Triceps Skinfold (mm)","Body Composition"
+"5","BMXWAIST",42558,55.5,67.5,73.4,77.4,96.2,21.4,97.3412801353447,16.1017961673909,118.2,126,142.2,179,"Waist Circumference (cm)","Waist Circumference (cm)","Body Composition"
+"6","BMXWT",44233,25.6,45.1,52.2,56.7,77.1,25.7,80.0446729817105,20.9166497454289,106.8,118,145.4,371,"Weight (kg)","Weight (kg)","Body Composition"
+"7","BPXPLS",43147,32,48,54,58,72,16,72.8361647391476,12.4581093355046,90,96,106,224,"60 sec. pulse (30 sec. pulse * 2)","60 sec. pulse (30 sec. pulse * 2)","Cardiovascular System"
+"8","LBDHDD",42145,7,26,32,35,50,19,52.7700083046625,15.8342122681681,74,82,101,188,"Direct HDL-Cholesterol (mg/dL)","Direct HDL-Cholesterol (mg/dL)","Cardiovascular System"
+"9","LBDLDL",19696,9,45,62,72,112,47,114.809859870024,35.8910857924487,161,177,213,629,"LDL-cholesterol (mg/dL)","LDL-cholesterol (mg/dL)","Cardiovascular System"
+"10","LBXCRP",31478,0.01,0.01,0.02,0.04,0.21,0.41,0.453803608869687,0.884786401887174,1.06,1.63,3.77,29.6,"C-reactive protein (mg/dL)","C-reactive protein (mg/dL)","Immune System"
+"11","LBXGH",42657,2,4.5,4.8,4.9,5.4,0.7,5.64148439880911,1.04081973931216,6.4,7.4,10.7,18.8,"Glycohemoglobin (%)","Glycohemoglobin (%)","Metabolic System"
+"12","LBXGLU",20757,36,72.556,81,84.7,98,16.9,105.921920316038,35.27650136804,128,159,281,686.2,"Glucose, plasma (mg/dL)","Glucose, plasma (mg/dL)","Metabolic System"
+"13","LBXSAL",42041,1.2,3.1,3.6,3.8,4.3,0.5,4.25055778882519,0.369806871570812,4.7,4.8,5,5.7,"Albumin (g/dL)","Albumin (g/dL)","Nephrology"
+"14","LBXSAPSI",36827,7,32,41,46,68,28,71.8555407717164,27.7870934470677,101,115,153,1378,"Alkaline phosphatase (U/L)","Alkaline phosphatase (U/L)","Metabolic System"
+"15","LBXSBU",42038,1,4,6,7,12,6,13.1927541747942,6.01706605616069,20,23,35,122,"Blood urea nitrogen (mg/dL)","Blood urea nitrogen (mg/dL)","Nephrology"
+"16","LBXSCR",36831,0.16,0.4,0.5,0.6,0.82,0.3,0.885363688197442,0.457421669045559,1.17,1.3,1.95699999999997,17.8,"Creatinine (mg/dL)","Creatinine (mg/dL)","Nephrology"
+"17","LBXSTR",42018,9,34,46,56,116,102,148.277999904803,131.404391709459,269,347,589,6057,"Triglycerides (mg/dL)","Triglycerides (mg/dL)","Cardiovascular System"
+"18","LBXTC",42147,59,112,133,144,192,56,195.394737466486,42.9719376836956,250,270,313,813,"Total cholesterol (mg/dL)","Total cholesterol (mg/dL)","Cardiovascular System"
+"19","LBXWBCSI",42703,1.5,3.5,4.30999999999999,4.8,6.9,2.7,7.27271831018898,2.40896460231655,10,11.2,13.7980000000003,99.99,"White blood cell count (1000 cells/uL)","White blood cell count (1000 cells/uL)","Immune System"
+"20","PERMTH_INT",47266,1,11,19,26,92,91,97.2568865569331,54.3521542109774,177,189,199,201,"Person Months of Follow-up from Interview Date",NA,NA
+"21","RIDAGEYR",47266,18,18,19,21,46,34,47.4084331231752,19.6875768248578,76,80,85,85,"Age at Screening Adjudicated - Recode",NA,NA
+"22","VNAVEBPXDI",42647,3.33333333333333,39.3333333333333,50,54.6666666666667,70,15.3333333333333,69.8772559226518,12.1824664823668,84.6666666666667,89.3333333333333,100,132,"Diastolic: Average blood pressure (mm Hg)","Diastolic: Average blood pressure (mm Hg)","Cardiovascular System"
+"23","VNAVEBPXSY",42881,64.6666666666667,91.3333333333333,98.6666666666667,102.666666666667,120,22.6666666666667,123.73663549513,19.540293263413,149.333333333333,161.333333333333,186,270,"Systolic: Average blood pressure (mm Hg)","Systolic: Average blood pressure (mm Hg)","Cardiovascular System"
+"24","VNEGFR",36831,1.8544499109602,30.4627890925398,51.907808410591,62.7035207074367,98.5514039867457,34.5988990589577,97.171774172864,25.9309155591585,128.482137809661,136.808540883611,151.498106510536,207.579710510348,"Estimated Glomerular Filtration Rate (mL/min/1.73 m2)","Estimated Glomerular Filtration Rate (mL/min/1.73 m2)","Nephrology"
+"25","VNHOMAIR",17659,0.0478619555555556,0.395756151902222,0.744078244,0.977260704622222,2.43333636,2.73962820444444,3.80891586310515,5.63581309245179,7.23551583502222,10.305964396,24.7194267683998,204.474168888889,"Homeostatic Model Assessment of Insulin Resistance (-)","Homeostatic Model Assessment of Insulin Resistance (-)","Metabolic System"
+"26","VNINGLURATIO",17659,0.000818713450292398,0.0158318873731785,0.0330672459893048,0.0433019545071609,0.0981277533039648,0.0895473454768272,0.128609849324745,0.129879077451022,0.235729674796748,0.307215294117647,0.564942849284928,5.05859375,"Ratio of Insulin to Glucose (uU*dL)/(mg*mL)","Ratio of Insulin to Glucose (uU*dL)/(mg*mL)","Metabolic System"
+"27","VNLDHDLRATIO",19696,0.145161290322581,0.703219587430114,1.01492537313433,1.21052631578947,2.14946808510638,1.27419984676341,2.30761153103782,1.01039537451473,3.6,4.07894736842105,5.15049999999999,33.1052631578947,"Ratio of LDL to HDL Cholesterol (-)","Ratio of LDL to HDL Cholesterol (-)","Cardiovascular System"
+"28","VNRFPI",42425,2.82142857142857,15.2601065040949,20.1694234578176,23.4928585582976,34.3958602846054,13.6782051807245,34.9072070290072,8.83244414698867,46.6271915436486,48.6698923124008,51.893043791026,58.4115942028986,"Relative Fat Mass Index (-)","Relative Fat Mass Index (-)","Body Composition"
+"29","VNTOTHDRATIO",42144,1.31382978723404,1.88679245283019,2.25764907135875,2.49056603773585,3.72,1.73333333333333,3.99290755241722,1.44425984953093,5.82142857142857,6.60457848837209,8.39773684210526,37.0526315789474,"Ratio of Total to HDL Cholesterol (-)","Ratio of Total to HDL Cholesterol (-)","Cardiovascular System"
